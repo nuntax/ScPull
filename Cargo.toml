@@ -1,8 +1,15 @@
 [package]
 name = "scpull"
 version = "0.1.0"
+authors = ["nuntax"]
+license = "MIT"
+description = "Pulls a smart contract via etherscan and initializes a new foundry project for it."
+readme = "README.md"
+repository = "https://github.com/nuntax/ScPull"
+homepage = "https://github.com/nuntax/ScPull"
+keywords = ["foundry", "blockchain", "smart contract", "etherscan", "cli"]
+categories = ["blockchain", "development-tools"]
 edition = "2021"
-
 [dependencies]
 clap = { version = "4.5.23", features = ["derive"] }
 dirs = "5.0.1"
