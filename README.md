@@ -1,6 +1,11 @@
 # ScPull
 Pulls smart contract code from etherscan and creates a new foundry project for it. 
 
+## Installation
+
+You can install ScPull via cargo.
+`cargo install scpull`
+
 ## Usage
 
 ScPull can be used in the following way:
