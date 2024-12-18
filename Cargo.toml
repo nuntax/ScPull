@@ -7,7 +7,7 @@ description = "Pulls a smart contract via etherscan and initializes a new foundr
 readme = "README.md"
 repository = "https://github.com/nuntax/ScPull"
 homepage = "https://github.com/nuntax/ScPull"
-keywords = ["foundry", "blockchain", "smart contract", "etherscan", "cli"]
+keywords = ["foundry", "blockchain", "cli"]
 categories = ["blockchain", "development-tools"]
 edition = "2021"
 [dependencies]
