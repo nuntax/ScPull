@@ -1,4 +1,4 @@
-use std::{collections::HashMap, io::Write, path::Path};
+use std::io::Write;
 
 use clap::Parser;
 
