@@ -1,0 +1,6 @@
+[submodule "hallo/lib/forge-std"]
+	path = hallo/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "extrafi/lib/forge-std"]
+	path = extrafi/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
