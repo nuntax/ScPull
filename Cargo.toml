@@ -8,7 +8,7 @@ readme = "README.md"
 repository = "https://github.com/nuntax/ScPull"
 homepage = "https://github.com/nuntax/ScPull"
 keywords = ["foundry", "blockchain", "cli"]
-categories = ["tools"]
+categories = ["development-tools"]
 edition = "2021"
 [dependencies]
 clap = { version = "4.5.23", features = ["derive"] }
